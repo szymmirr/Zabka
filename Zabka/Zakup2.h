@@ -20,6 +20,7 @@ namespace Zakup
 {
 	class Zakup2
 	{
+		public: Zakup2();
 		private: int _zamowienieID;
 		private: string _data;
 		private: string _czas;
@@ -27,6 +28,7 @@ namespace Zakup
 		public: Zakup::Klient* _klientKlient;
 		public: Zakup::Produkt* _produktProdukt;
 		public: std::vector<Zakup::Sposob_zaplaty*> _sposob_zaplaty;
+		public: static void finalizuj(Produkt x);
 	};
 }
 

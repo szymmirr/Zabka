@@ -7,3 +7,11 @@ using namespace std;
 #include "Produkt.h"
 #include "Sposob_zaplaty.h"
 
+Zakup::Zakup2::Zakup2()
+{
+}
+
+void Zakup::Zakup2::finalizuj(Zakup::Produkt x)
+{
+	cout << "Zamowienie produktu " << x._nazwa << " zostalo zlozone!";
+}
