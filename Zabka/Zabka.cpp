@@ -3,10 +3,12 @@
 
 #include "stdafx.h"
 using namespace std;
+#include "Produkt.h"
 
 int main()
 {
-	cout << "Zaplace wam dolara, kupicie sobie za to cala zabke" << endl;
+	Produkt produkt1(1, "Mleko", "Mleko 21% nowy smak", 3.50, 40);
+	produkt1.WyswietlPrzedmioty();
 	getchar();
 	getchar();
     return 0;

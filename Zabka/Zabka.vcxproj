@@ -145,37 +145,37 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Klient.h" />
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Koszyk.h" />
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Livechat.h" />
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Obsluga.h" />
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Produkt.h" />
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Rejestracja.h" />
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Reklamacja.h" />
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Sposob_zaplaty.h" />
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Wybor.h" />
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Zakup2.h" />
+    <ClInclude Include="Klient.h" />
+    <ClInclude Include="Koszyk.h" />
+    <ClInclude Include="Livechat.h" />
+    <ClInclude Include="Obsluga.h" />
+    <ClInclude Include="Produkt.h" />
+    <ClInclude Include="Rejestracja.h" />
+    <ClInclude Include="Reklamacja.h" />
+    <ClInclude Include="Sposob_zaplaty.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="Wybor.h" />
+    <ClInclude Include="Zakup2.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Klient.cpp" />
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Koszyk.cpp" />
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Livechat.cpp" />
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Obsluga.cpp" />
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Produkt.cpp" />
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Rejestracja.cpp" />
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Reklamacja.cpp" />
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Sposob_zaplaty.cpp" />
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Wybor.cpp" />
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Zakup2.cpp" />
+    <ClCompile Include="Klient.cpp" />
+    <ClCompile Include="Koszyk.cpp" />
+    <ClCompile Include="Livechat.cpp" />
+    <ClCompile Include="Obsluga.cpp" />
+    <ClCompile Include="Produkt.cpp" />
+    <ClCompile Include="Rejestracja.cpp" />
+    <ClCompile Include="Reklamacja.cpp" />
+    <ClCompile Include="Sposob_zaplaty.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="Wybor.cpp" />
     <ClCompile Include="Zabka.cpp" />
+    <ClCompile Include="Zakup2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

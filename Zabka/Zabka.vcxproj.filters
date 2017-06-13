@@ -24,34 +24,34 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Klient.h">
+    <ClInclude Include="Klient.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Koszyk.h">
+    <ClInclude Include="Koszyk.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Livechat.h">
+    <ClInclude Include="Livechat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Produkt.h">
+    <ClInclude Include="Obsluga.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Rejestracja.h">
+    <ClInclude Include="Produkt.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Reklamacja.h">
+    <ClInclude Include="Rejestracja.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Zakup2.h">
+    <ClInclude Include="Reklamacja.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Sposob_zaplaty.h">
+    <ClInclude Include="Sposob_zaplaty.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Wybor.h">
+    <ClInclude Include="Wybor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Pobrane\zabka\cpp2\Obsluga.h">
+    <ClInclude Include="Zakup2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -62,34 +62,34 @@
     <ClCompile Include="Zabka.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Klient.cpp">
+    <ClCompile Include="Klient.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Koszyk.cpp">
+    <ClCompile Include="Koszyk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Livechat.cpp">
+    <ClCompile Include="Livechat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Produkt.cpp">
+    <ClCompile Include="Obsluga.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Rejestracja.cpp">
+    <ClCompile Include="Produkt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Reklamacja.cpp">
+    <ClCompile Include="Rejestracja.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Zakup2.cpp">
+    <ClCompile Include="Reklamacja.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Sposob_zaplaty.cpp">
+    <ClCompile Include="Sposob_zaplaty.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Obsluga.cpp">
+    <ClCompile Include="Wybor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Pobrane\zabka\cpp2\Wybor.cpp">
+    <ClCompile Include="Zakup2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
