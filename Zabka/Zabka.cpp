@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	Produkt produkt1(1, "Mleko", "Mleko 21% nowy smak", 3.50, 40);
+	Produkt produkt1(1, "Mleko", "Mleko 21% nowy gorszy smak", 3.50, 40);
 	produkt1.WyswietlPrzedmioty();
 	getchar();
 	getchar();
