@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Zaplace wam dolara, kupicie sobie za to cala zabke" << endl;
+	cout << "Zaplace wam dolara, kupicie csffsfdsobie za to cala zabke" << endl;
 	getchar();
 	getchar();
     return 0;
