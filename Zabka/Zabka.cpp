@@ -34,10 +34,29 @@ int main()
 	produkty[8].DodajPrzedmiot(8, "VILEDA UltraMax BOX","Zestaw mop+wiadro+wyciskacz",74.99,69 );
 	produkty[8].WyswietlPrzedmioty();
 
-	int wybor;
+	int wybor, sposob;
 	cout << "Wybierz produkt, ktory chcesz kupic" << endl;
 	cin >> wybor;
 
+	cout << "Wybierz sposob zaplaty:" << endl;
+	cout << "1. Karta" << endl;
+	cout << "2. Przelew" << endl;
+	cout << "3. Gotowka" << endl;
+	cin >> sposob;
+
+	string imie, nazwisko, adres, kod, miasto;
+	cout << "Podaj dane:" << endl;
+	cout << "Imie: ";
+	cin >> imie;
+	cout << "Nazwisko: ";
+	cin >> nazwisko;
+	cout << "Adres: ";
+	cin >> adres;
+	cout << "Kod: ";
+	cin >> kod;
+	cout << "Miasto: ";
+	cin >> miasto;
+	cout << endl;
 	Zakup::Zakup2::finalizuj(produkty[wybor]);
 
 	getchar();
